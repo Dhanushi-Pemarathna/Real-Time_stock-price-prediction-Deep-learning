@@ -46,7 +46,7 @@ Follow these steps to set up the environment and run the project on your local m
 Clone the repository to your local machine:
 
 bash
-git clone https://github.com/Dhanushi-Pemarathna/real-time-stock-predictor---Deep-Learning.git
+git clone https://github.com/Dhanushi-Pemarathna/Real-Time_stock-price-prediction-Deep-learning.git
 
 ## Usage
 1. Running the Jupyter Notebook
